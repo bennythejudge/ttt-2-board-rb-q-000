@@ -1,5 +1,7 @@
 # Tic Tac Toe Board
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ttt-2-board-rb-q-000.svg)](https://www.guardrails.io)
+
 ## Overview
 
 ### The Tic Tac Toe Board
